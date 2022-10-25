@@ -1,2 +1,2 @@
-# Java_codes-
-All java practice codes 
+# Java_codes
+All about java practice codes. 
